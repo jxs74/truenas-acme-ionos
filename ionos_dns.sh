@@ -28,7 +28,7 @@ if [ -z "$value" ]; then
 fi
 
 # IONOS API key
-IONOS_PREFIX=<insert yours prefix>
+IONOS_PREFIX=<insert your prefix>
 IONOS_SECRET=<insert your secret>
 
 # Allow easier construction of commands that conflict with the shell
